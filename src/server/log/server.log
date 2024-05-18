@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T01:04:00</date>
+  <millis>1715983440356</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 58788</message>
+</record>
+<record>
+  <date>2024-05-18T01:04:22</date>
+  <millis>1715983462662</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+<record>
+  <date>2024-05-18T01:04:31</date>
+  <millis>1715983471130</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 58809</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T01:46:50</date>
+  <millis>1715986010762</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 59152</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061550</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061554</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061555</millis>
+  <sequence>4</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061556</millis>
+  <sequence>5</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061557</millis>
+  <sequence>6</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061558</millis>
+  <sequence>7</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061558</millis>
+  <sequence>8</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061559</millis>
+  <sequence>9</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061560</millis>
+  <sequence>10</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:41</date>
+  <millis>1715986061561</millis>
+  <sequence>11</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:47:47</date>
+  <millis>1715986067233</millis>
+  <sequence>12</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T01:59:07</date>
+  <millis>1715986747913</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 59424</message>
+</record>
+<record>
+  <date>2024-05-18T01:59:41</date>
+  <millis>1715986781877</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: insert</message>
+</record>
+<record>
+  <date>2024-05-18T01:59:41</date>
+  <millis>1715986781879</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+Город успешно добавлен.
+</message>
+</record>
+<record>
+  <date>2024-05-18T01:59:49</date>
+  <millis>1715986789440</millis>
+  <sequence>4</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T01:59:49</date>
+  <millis>1715986789442</millis>
+  <sequence>5</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T02:00:11</date>
+  <millis>1715986811173</millis>
+  <sequence>6</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+<record>
+  <date>2024-05-18T02:00:11</date>
+  <millis>1715986811196</millis>
+  <sequence>7</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Коллекция сохранена в файл</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T11:50:49</date>
+  <millis>1716022249353</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60438</message>
+</record>
+<record>
+  <date>2024-05-18T11:50:53</date>
+  <millis>1716022253289</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T11:50:53</date>
+  <millis>1716022253293</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T11:51:08</date>
+  <millis>1716022268569</millis>
+  <sequence>4</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: group_counting_by_area</message>
+</record>
+<record>
+  <date>2024-05-18T11:51:08</date>
+  <millis>1716022268573</millis>
+  <sequence>5</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+Площадь: 1, количество элементов: 1
+Площадь: 4, количество элементов: 1
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T11:54:17</date>
+  <millis>1716022457904</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60472</message>
+</record>
+<record>
+  <date>2024-05-18T11:54:20</date>
+  <millis>1716022460620</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T11:54:20</date>
+  <millis>1716022460629</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:13:15</date>
+  <millis>1716023595921</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60648</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:14:16</date>
+  <millis>1716023656254</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60663</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:14:40</date>
+  <millis>1716023680091</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60667</message>
+</record>
+<record>
+  <date>2024-05-18T12:14:55</date>
+  <millis>1716023695560</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:20:40</date>
+  <millis>1716024040993</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60736</message>
+</record>
+<record>
+  <date>2024-05-18T12:20:45</date>
+  <millis>1716024045348</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T12:20:45</date>
+  <millis>1716024045352</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:22:38</date>
+  <millis>1716024158250</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60765</message>
+</record>
+<record>
+  <date>2024-05-18T12:22:41</date>
+  <millis>1716024161777</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T12:22:41</date>
+  <millis>1716024161781</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:26:02</date>
+  <millis>1716024362123</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60780</message>
+</record>
+<record>
+  <date>2024-05-18T12:26:05</date>
+  <millis>1716024365260</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Получен новый запрос: show</message>
+</record>
+<record>
+  <date>2024-05-18T12:26:05</date>
+  <millis>1716024365264</millis>
+  <sequence>3</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Отправлен ответ: Ответ сервера:
+1=id: 1
+name: 1
+coordinates: x=1.0, y=1.0
+creationDate: 2024-05-18 00:25:20
+area: 1
+population: 1
+metersAboveSeaLevel: 1
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=1
+
+2=id: 2
+name: 1
+coordinates: x=1.0, y=3.0
+creationDate: 2024-05-18 01:59:41
+area: 4
+population: 5
+metersAboveSeaLevel: 6
+capital: false
+climate: MEDITERRANIAN
+standardOfLiving: NIGHTMARE
+governor: age=34
+
+
+</message>
+</record>
+<record>
+  <date>2024-05-18T12:26:08</date>
+  <millis>1716024368452</millis>
+  <sequence>4</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:28:03</date>
+  <millis>1716024483149</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60804</message>
+</record>
+<record>
+  <date>2024-05-18T12:28:14</date>
+  <millis>1716024494947</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-18T12:29:31</date>
+  <millis>1716024571638</millis>
+  <sequence>1</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>waitForConnection</method>
+  <thread>12</thread>
+  <message>Получено новое подключение: /127.0.0.1 60817</message>
+</record>
+<record>
+  <date>2024-05-18T12:29:35</date>
+  <millis>1716024575008</millis>
+  <sequence>2</sequence>
+  <logger>server.TCPServer</logger>
+  <level>INFO</level>
+  <class>server.TCPServer</class>
+  <method>listenCommands</method>
+  <thread>12</thread>
+  <message>Закончена связь с текущим пользователем</message>
+</record>
